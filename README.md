@@ -1,1 +1,1 @@
-# LAPNet &mdash; Official Pytorch Implementation
+## LAPNet &mdash; Official Pytorch Implementation
